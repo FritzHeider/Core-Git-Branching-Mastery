@@ -25,7 +25,6 @@ George met the Unicorn King who granted him magic powers.
 The end.
 
 ## Cast
-
 * Young Boy: Eliel
 * Unicorn King: Alan
 * Zookeeper: Braus
